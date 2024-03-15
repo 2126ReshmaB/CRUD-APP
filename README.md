@@ -26,6 +26,7 @@ D - Delete
 `Insomnia
 `
 Insomnia is an open source desktop application that takes the pain out of interacting with and designing, debugging, and testing APIs. <br>
+![Screenshot (154)](https://github.com/2126ReshmaB/CRUD-APP/assets/118461173/6f8fc899-1498-4083-9cff-c1340f250d73)<br>
 `Postman`
  Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
  # Requirements
