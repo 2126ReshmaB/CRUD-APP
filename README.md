@@ -35,3 +35,4 @@ Insomnia is an open source desktop application that takes the pain out of intera
    Mongoose is an object document modeling (ODM) layer that sits on top of Node's MongoDB driver.<br>
  - `nodemon`  Nodemon is a command-line tool that helps with the speedy development of Node. js applications. It monitors your project directory and automatically restarts your node application when it detects any changes.
  
+![Screenshot (155)](https://github.com/2126ReshmaB/CRUD-APP/assets/118461173/76b34d99-0b63-4212-868a-0788414f8c25)
